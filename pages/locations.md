@@ -1,10 +1,10 @@
 ---
-title: Locations
+title: Journals
 layout: locations
-permalink: /locations.html
+permalink: /journals.html
 ---
 
-## Browse Locations
+## Browse Journals
 
-Use this word cloud visualization to browse locations.
+Use this word cloud visualization to browse journals.
 Word size is determined by frequency and all words link to a corresponding collection search.
